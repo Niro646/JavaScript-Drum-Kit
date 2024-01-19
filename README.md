@@ -1,7 +1,7 @@
 A JavaScript based app that emulates playing the drums.
 play the drums by pressing your keyboard.
 
-[Click here](https://chipper-bombolone-80b026.netlify.app/) to check it out Yourself.
+[Click here](https://drumemulator.netlify.app/) to check it out Yourself.
 
 <h2>🛠️ Languages I used:</h2>
 
