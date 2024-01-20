@@ -10,4 +10,4 @@ play the drums by pressing your keyboard.
 <h3>Screenshots:</h3>
 
 
-![image_1](/drumapp.png?raw=true "Optional Title")
+![image_1](ScreenShot/drumapp.png?raw=true "Optional Title")
