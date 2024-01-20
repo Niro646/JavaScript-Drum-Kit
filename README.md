@@ -3,7 +3,7 @@ play the drums by pressing your keyboard.
 
 [Click here](https://drumemulator.netlify.app/) to check it out Yourself.
 
-<h2>🛠️ Languages I used:</h2>
+<h2>🛠️ Tools I used:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
