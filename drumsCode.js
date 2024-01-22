@@ -15,9 +15,10 @@ function playSound(e) {
   audio.play();
 }
 
-function playSoundTouch(e) {
-  const touchAudio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
-  const touchKey = document.querySelector(`div[data-key="${e.keyCode}"]`);
+function playSoundTouch(key) {
+  const soundName = key.getAttribute("data-sound");
+  const audio = document.querySelector(`audio[data-sound="${soundName}"]`);
+
   if (!audio) return;
 
   key.classList.add("playing");
